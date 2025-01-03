@@ -54,6 +54,7 @@ export interface IUniqueJewelry {
 
 export interface IUniqueCharms {
   all: IItems;
+  sunder: IItems;
 }
 
 export interface IUniqueClasses {
