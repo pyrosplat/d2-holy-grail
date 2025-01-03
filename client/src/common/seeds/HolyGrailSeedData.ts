@@ -528,7 +528,9 @@ export const holyGrailSeedData: IHolyGrailData = {
         all: {
           Annihilus: {},
           "Gheed's Fortune": {},
-          "Hellfire Torch": {},
+          "Hellfire Torch": {}
+        },
+        sunder: {
           "Black Cleft": {},
           "Bone Break": {},
           "Cold Rupture": {},
