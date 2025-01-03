@@ -528,7 +528,13 @@ export const holyGrailSeedData: IHolyGrailData = {
         all: {
           Annihilus: {},
           "Gheed's Fortune": {},
-          "Hellfire Torch": {}
+          "Hellfire Torch": {},
+          "Black Cleft": {},
+          "Bone Break": {},
+          "Cold Rupture": {},
+          "Crack of the Heavens": {},
+          "Flame Rift": {};
+          "Rotting Fissure": {}
         }
       },
       "rainbow facet (jewel)": {
