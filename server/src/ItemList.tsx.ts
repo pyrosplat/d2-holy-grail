@@ -7117,6 +7117,17 @@ const uniqueItems = {
     ],
     category: "Unique Charms"
   },
+  "Black Cleft": {
+    name: "Black Cleft",
+    type: "Grand Charm",
+    image: "charms/gheeds.gif",
+    props: [
+      "Monster Magic Immunity is Sundered",
+      "Magic Resist -45 to 65%",
+      "Required Level: 75"
+    ],
+    category: "Unique Charms"
+  },
   Cold: {
     name: "Rainbow Facet Cold",
     type: "Jewel",
