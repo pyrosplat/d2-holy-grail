@@ -7128,6 +7128,61 @@ const uniqueItems = {
     ],
     category: "Unique Charms"
   },
+  "Bone Break": {
+    name: "Bone Break",
+    type: "Grand Charm",
+    image: "charms/gheeds.gif",
+    props: [
+      "Monster Physical Immunity is Sundered",
+      "Damage Increased by 10 to 20%",
+      "Required Level: 75"
+    ],
+    category: "Unique Charms"
+  },
+  "Cold Rupture": {
+    name: "Cold Rupture",
+    type: "Grand Charm",
+    image: "charms/gheeds.gif",
+    props: [
+      "Monster Cold Immunity is Sundered",
+      "Cold Resist -70 to 90%",
+      "Required Level: 75"
+    ],
+    category: "Unique Charms"
+  },
+  "Crack of the Heavens": {
+    name: "Crack of the Heavens",
+    type: "Grand Charm",
+    image: "charms/gheeds.gif",
+    props: [
+      "Monster Lightning Immunity is Sundered",
+      "Lightning Resist -70 to 90%",
+      "Required Level: 75"
+    ],
+    category: "Unique Charms"
+  },
+  "Flame Rift": {
+    name: "Flame Rift",
+    type: "Grand Charm",
+    image: "charms/gheeds.gif",
+    props: [
+      "Monster Fire Immunity is Sundered",
+      "Fire Resist -70 to 90%",
+      "Required Level: 75"
+    ],
+    category: "Unique Charms"
+  },
+  "Rotting Fissure": {
+    name: "Rotting Fissure",
+    type: "Grand Charm",
+    image: "charms/gheeds.gif",
+    props: [
+      "Monster Poison Immunity is Sundered",
+      "Poison Resist -70 to 90%",
+      "Required Level: 75"
+    ],
+    category: "Unique Charms"
+  },
   Cold: {
     name: "Rainbow Facet Cold",
     type: "Jewel",
