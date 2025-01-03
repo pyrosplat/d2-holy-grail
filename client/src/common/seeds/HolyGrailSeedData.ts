@@ -533,7 +533,7 @@ export const holyGrailSeedData: IHolyGrailData = {
           "Bone Break": {},
           "Cold Rupture": {},
           "Crack of the Heavens": {},
-          "Flame Rift": {};
+          "Flame Rift": {},
           "Rotting Fissure": {}
         }
       },
